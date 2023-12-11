@@ -26,9 +26,14 @@ unzip XUI_1.5.5.zip
 ```
 
 ## Proceso de Licencia
+- Clonar repo
+```
+git clone https://github.com/wirisp/XUI-one
+```
+
 - Entrar a la carpeta
 ```
-cd /tmp
+cd /XUI-one
 ```
 - Descomprimir
 ```
