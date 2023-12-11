@@ -33,7 +33,7 @@ git clone https://github.com/wirisp/XUI-one
 
 - Entrar a la carpeta
 ```
-cd /XUI-one
+cd XUI-one/
 ```
 - Descomprimir
 ```
