@@ -48,3 +48,13 @@ chmod -R 777 install.sh
 ```
 ./install.sh
 ```
+
+## Swap en ubuntu
+```
+cd /tmp
+wget https://raw.githubusercontent.com/igormukhingmailcom/digitalocean-make-swap-on-ubuntu/master/make-swap.sh
+chmod a+x make-swap.sh
+sudo ./make-swap.sh /swapfile 4G
+free # Check result
+rm make-swap.sh
+```
