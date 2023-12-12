@@ -5,6 +5,7 @@
 
 ```
 apt install zip git unzip -y
+timedatectl set-timezone America/Mexico_City
 ```
 
 - Descargar los archivos , elegir cual version
